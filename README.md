@@ -1,6 +1,6 @@
 # My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GiladKupfer&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GiladKupfer&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=GiladKupfer&show_icons=true&theme=discord_old_blurple)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GiladKupfer&include_all_commits=false&count_private=false&layout=compact&theme=discord_old_blurple)
 <!--
 **GiladKupfer/GiladKupfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
